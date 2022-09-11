@@ -1,0 +1,2 @@
+print("COMO EU AMO PROGRAMAR EM PYTHON!")
+
